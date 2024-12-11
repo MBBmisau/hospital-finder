@@ -74,19 +74,15 @@ const Modal = ({isOpen, hospital, handleCloseModal}) => {
       </div>
       <div className="w-full mt-3">
         <h2 className="text-base font-bold text-orange-600">Location</h2>
-        <dl>
+        <dl className="divide-y divide-slate-400">
           <div className="w-full text-sm flex justify-between text-slate-600 py-2">
             <dt className="font-bold text-slate-600">Ward</dt>
             <dd>{hospital.Location['Ward']}</dd>
           </div>
-        </dl>
-        <dl>
           <div className="w-full text-sm flex justify-between text-slate-600 py-2">
             <dt className="font-bold text-slate-600">LGA</dt>
             <dd>{hospital.Location['LGA']}</dd>
           </div>
-        </dl>
-        <dl>
           <div className="w-full text-sm flex justify-between text-slate-600 py-2">
             <dt className="font-bold text-slate-600">State</dt>
             <dd>{hospital.Location['State']}</dd>
