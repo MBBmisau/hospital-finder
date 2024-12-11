@@ -75,7 +75,7 @@ const Searchbar = () => {
 
         />
       </div>
-      <ul className="w-full divide-y divide-slate-200 h-full overflow-y-scroll">
+      <ul className="w-full divide-y divide-slate-400 h-full overflow-y-scroll">
         {filteredSuggestions.map((suggestion, index) => (
           <li key={index} className='cursor-pointer p-2 text-slate-700  px-10 py-4 w-full hover:bg-slate-400/50'
             onClick={() => handleSelect(suggestion)}>
