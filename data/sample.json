@@ -1,0 +1,398 @@
+[
+    {
+        "Identifiers": {
+            "Facility Code": "33/14/1/1/1/0013",
+            "State Unique ID": "",
+            "Registration No": "",
+            "Facility Name": "Kajiji Model Primary Health Centre",
+            "Alternate Name": "",
+            "Start Date": "1990-11-01",
+            "Ownership": "Public",
+            "Ownership Type": "State Government",
+            "Facility Level": "Primary",
+            "Facility Level Option": "",
+            "Days of Operation": "Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",
+            "Hours of Operation": "24 hours"
+        },
+        "Location": {
+            "State": "Sokoto",
+            "LGA": "Shagari",
+            "Ward": "Kajiji",
+            "Physical Location": "",
+            "Postal Address": "",
+            "Longitude": "4.93798869",
+            "Latitude": "12.53897847"
+        },
+        "Contacts": {
+            "Phone Number": "090313858432",
+            "Alternate Number": "",
+            "Email Address": "",
+            "Website": ""
+        },
+        "Status": {
+            "Operational Status": "Operational",
+            "Registration Status": "Unknown",
+            "License Status": "Unknown"
+        },
+        "Services": {
+            "Out Patient Services": "Yes",
+            "In Patient Services": "Yes",
+            "Medical Services": "",
+            "Surgical Services": "",
+            "Obsterics and Gynecology Services": "",
+            "Pediatrics Services": "",
+            "Dental Services": "",
+            "Specific Clinical Services": [
+                "Antenatal Care (ANC)",
+                "Immunization",
+                "HIV/ AIDS Services",
+                "Tuberculosis",
+                "Non Communicable Diseases",
+                "Family Planning",
+                "Intensive Care Services",
+                "Communicable Diseases",
+                "Hepatitis",
+                "Child Survival",
+                "Accidents and Emergency",
+                "Nutrition",
+                "Health Education and Community Mobilization",
+                "Maternal and newborn care"
+            ],
+            "Total number of Beds": "23",
+            "Onsite Laboratory": "",
+            "Onsite Imaging": "",
+            "Onsite Pharmacy": "",
+            "Mortuary Services": "",
+            "Ambulance Services": "No"
+        },
+        "Personnel": {
+            "Number of Doctors": "1",
+            "Number of Pharmacists": "",
+            "Number Pharmacy Technicians": "",
+            "Number of Dentists": "",
+            "Number of Dental Technicians": "3",
+            "Number of Nurses": "",
+            "Number of Midwifes": "1",
+            "Number of Nurses/Midwifes": "",
+            "Number of Lab Technicians": "2",
+            "Number of Lab Scientits": "",
+            "Health Records/HIM Officers": "8",
+            "Number of Community Health Officer": "",
+            "Number of Community Health Extension Worker": "6",
+            "Number of Junior Com Health Extension Worker": "6",
+            "Number of Environmental Health Officers": "",
+            "Number of Health Attendant/Assistant": "27"
+        }
+    },
+    {
+        "Identifiers": {
+            "Facility Code": "33/14/1/1/1/0016",
+            "State Unique ID": "",
+            "Registration No": "",
+            "Facility Name": "Kesoje Primary Health Centre",
+            "Alternate Name": "",
+            "Start Date": "1992-05-01",
+            "Ownership": "Public",
+            "Ownership Type": "State Government",
+            "Facility Level": "Primary",
+            "Facility Level Option": "Primary Health Clinic",
+            "Days of Operation": "Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",
+            "Hours of Operation": "24 hours"
+        },
+        "Location": {
+            "State": "Sokoto",
+            "LGA": "Shagari",
+            "Ward": "Kajiji",
+            "Physical Location": "",
+            "Postal Address": "",
+            "Longitude": "4.941934",
+            "Latitude": "12.55623209"
+        },
+        "Contacts": {
+            "Phone Number": "",
+            "Alternate Number": "",
+            "Email Address": "",
+            "Website": ""
+        },
+        "Status": {
+            "Operational Status": "Operational",
+            "Registration Status": "Unknown",
+            "License Status": "Unknown"
+        },
+        "Services": {
+            "Out Patient Services": "",
+            "In Patient Services": "",
+            "Medical Services": "",
+            "Surgical Services": "",
+            "Obsterics and Gynecology Services": "",
+            "Pediatrics Services": "",
+            "Dental Services": "",
+            "Specific Clinical Services": [
+                "Immunization",
+                "Non Communicable Diseases",
+                "Family Planning",
+                "Communicable Diseases",
+                "Accidents and Emergency",
+                "Maternal and newborn care"
+            ],
+            "Total number of Beds": "8",
+            "Onsite Laboratory": "",
+            "Onsite Imaging": "",
+            "Onsite Pharmacy": "",
+            "Mortuary Services": "",
+            "Ambulance Services": "No"
+        },
+        "Personnel": {
+            "Number of Doctors": "",
+            "Number of Pharmacists": "",
+            "Number Pharmacy Technicians": "",
+            "Number of Dentists": "",
+            "Number of Dental Technicians": "",
+            "Number of Nurses": "",
+            "Number of Midwifes": "",
+            "Number of Nurses/Midwifes": "",
+            "Number of Lab Technicians": "",
+            "Number of Lab Scientits": "",
+            "Health Records/HIM Officers": "2",
+            "Number of Community Health Officer": "",
+            "Number of Community Health Extension Worker": "",
+            "Number of Junior Com Health Extension Worker": "3",
+            "Number of Environmental Health Officers": "",
+            "Number of Health Attendant/Assistant": "6"
+        }
+    },
+    {
+        "Identifiers": {
+            "Facility Code": "33/14/1/1/1/0020",
+            "State Unique ID": "",
+            "Registration No": "",
+            "Facility Name": "Rugga Health Post",
+            "Alternate Name": "",
+            "Start Date": "1994-08-01",
+            "Ownership": "Public",
+            "Ownership Type": "State Government",
+            "Facility Level": "Primary",
+            "Facility Level Option": "",
+            "Days of Operation": "Monday, Tuesday, Wednesday, Thursday, Friday",
+            "Hours of Operation": ""
+        },
+        "Location": {
+            "State": "Sokoto",
+            "LGA": "Shagari",
+            "Ward": "Kajiji",
+            "Physical Location": "",
+            "Postal Address": "",
+            "Longitude": "4.91076",
+            "Latitude": "12.52605"
+        },
+        "Contacts": {
+            "Phone Number": "",
+            "Alternate Number": "",
+            "Email Address": "",
+            "Website": ""
+        },
+        "Status": {
+            "Operational Status": "Operational",
+            "Registration Status": "Unknown",
+            "License Status": "Unknown"
+        },
+        "Services": {
+            "Out Patient Services": "Yes",
+            "In Patient Services": "",
+            "Medical Services": "",
+            "Surgical Services": "",
+            "Obsterics and Gynecology Services": "",
+            "Pediatrics Services": "",
+            "Dental Services": "",
+            "Specific Clinical Services": [
+                "Non Communicable Diseases",
+                "Communicable Diseases",
+                "Accidents and Emergency"
+            ],
+            "Total number of Beds": "3",
+            "Onsite Laboratory": "",
+            "Onsite Imaging": "",
+            "Onsite Pharmacy": "",
+            "Mortuary Services": "",
+            "Ambulance Services": "No"
+        },
+        "Personnel": {
+            "Number of Doctors": "",
+            "Number of Pharmacists": "",
+            "Number Pharmacy Technicians": "",
+            "Number of Dentists": "",
+            "Number of Dental Technicians": "",
+            "Number of Nurses": "",
+            "Number of Midwifes": "",
+            "Number of Nurses/Midwifes": "",
+            "Number of Lab Technicians": "",
+            "Number of Lab Scientits": "",
+            "Health Records/HIM Officers": "3",
+            "Number of Community Health Officer": "",
+            "Number of Community Health Extension Worker": "",
+            "Number of Junior Com Health Extension Worker": "2",
+            "Number of Environmental Health Officers": "",
+            "Number of Health Attendant/Assistant": "6"
+        }
+    },
+    {
+        "Identifiers": {
+            "Facility Code": "33/14/1/1/1/0015",
+            "State Unique ID": "",
+            "Registration No": "",
+            "Facility Name": "Kambama Upgraded Health Post",
+            "Alternate Name": "",
+            "Start Date": "1990-02-01",
+            "Ownership": "Public",
+            "Ownership Type": "State Government",
+            "Facility Level": "Primary",
+            "Facility Level Option": "",
+            "Days of Operation": "Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",
+            "Hours of Operation": "24 hours"
+        },
+        "Location": {
+            "State": "Sokoto",
+            "LGA": "Shagari",
+            "Ward": "Kambama",
+            "Physical Location": "",
+            "Postal Address": "",
+            "Longitude": "5.223102",
+            "Latitude": "12.614234"
+        },
+        "Contacts": {
+            "Phone Number": "",
+            "Alternate Number": "",
+            "Email Address": "",
+            "Website": ""
+        },
+        "Status": {
+            "Operational Status": "Operational",
+            "Registration Status": "Unknown",
+            "License Status": "Unknown"
+        },
+        "Services": {
+            "Out Patient Services": "Yes",
+            "In Patient Services": "Yes",
+            "Medical Services": "",
+            "Surgical Services": "",
+            "Obsterics and Gynecology Services": "",
+            "Pediatrics Services": "",
+            "Dental Services": "",
+            "Specific Clinical Services": [
+                "Antenatal Care (ANC)",
+                "Immunization",
+                "HIV/ AIDS Services",
+                "Tuberculosis",
+                "Non Communicable Diseases",
+                "Family Planning",
+                "Intensive Care Services",
+                "Communicable Diseases",
+                "Hepatitis",
+                "Child Survival",
+                "Accidents and Emergency",
+                "Nutrition",
+                "Health Education and Community Mobilization",
+                "Maternal and newborn care"
+            ],
+            "Total number of Beds": "7",
+            "Onsite Laboratory": "",
+            "Onsite Imaging": "",
+            "Onsite Pharmacy": "",
+            "Mortuary Services": "",
+            "Ambulance Services": "No"
+        },
+        "Personnel": {
+            "Number of Doctors": "",
+            "Number of Pharmacists": "",
+            "Number Pharmacy Technicians": "",
+            "Number of Dentists": "",
+            "Number of Dental Technicians": "",
+            "Number of Nurses": "",
+            "Number of Midwifes": "",
+            "Number of Nurses/Midwifes": "",
+            "Number of Lab Technicians": "",
+            "Number of Lab Scientits": "",
+            "Health Records/HIM Officers": "5",
+            "Number of Community Health Officer": "",
+            "Number of Community Health Extension Worker": "",
+            "Number of Junior Com Health Extension Worker": "2",
+            "Number of Environmental Health Officers": "",
+            "Number of Health Attendant/Assistant": "12"
+        }
+    },
+    {
+        "Identifiers": {
+            "Facility Code": "33/14/1/1/1/0027",
+            "State Unique ID": "",
+            "Registration No": "",
+            "Facility Name": "Rinaye Health Post",
+            "Alternate Name": "",
+            "Start Date": "1993-10-01",
+            "Ownership": "Public",
+            "Ownership Type": "State Government",
+            "Facility Level": "Primary",
+            "Facility Level Option": "",
+            "Days of Operation": "Monday, Tuesday, Wednesday, Thursday, Friday",
+            "Hours of Operation": ""
+        },
+        "Location": {
+            "State": "Sokoto",
+            "LGA": "Shagari",
+            "Ward": "Kambama",
+            "Physical Location": "",
+            "Postal Address": "",
+            "Longitude": "5.24465",
+            "Latitude": "12.58836"
+        },
+        "Contacts": {
+            "Phone Number": "",
+            "Alternate Number": "",
+            "Email Address": "",
+            "Website": ""
+        },
+        "Status": {
+            "Operational Status": "Operational",
+            "Registration Status": "Unknown",
+            "License Status": "Unknown"
+        },
+        "Services": {
+            "Out Patient Services": "Yes",
+            "In Patient Services": "",
+            "Medical Services": "",
+            "Surgical Services": "",
+            "Obsterics and Gynecology Services": "",
+            "Pediatrics Services": "",
+            "Dental Services": "",
+            "Specific Clinical Services": [
+                "Non Communicable Diseases",
+                "Family Planning",
+                "Communicable Diseases",
+                "Accidents and Emergency"
+            ],
+            "Total number of Beds": "12",
+            "Onsite Laboratory": "No",
+            "Onsite Imaging": "No",
+            "Onsite Pharmacy": "No",
+            "Mortuary Services": "No",
+            "Ambulance Services": "No"
+        },
+        "Personnel": {
+            "Number of Doctors": "",
+            "Number of Pharmacists": "",
+            "Number Pharmacy Technicians": "",
+            "Number of Dentists": "",
+            "Number of Dental Technicians": "",
+            "Number of Nurses": "",
+            "Number of Midwifes": "",
+            "Number of Nurses/Midwifes": "",
+            "Number of Lab Technicians": "",
+            "Number of Lab Scientits": "",
+            "Health Records/HIM Officers": "2",
+            "Number of Community Health Officer": "",
+            "Number of Community Health Extension Worker": "",
+            "Number of Junior Com Health Extension Worker": "5",
+            "Number of Environmental Health Officers": "",
+            "Number of Health Attendant/Assistant": "14"
+        }
+    }
+]

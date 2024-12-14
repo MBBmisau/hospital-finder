@@ -12,11 +12,11 @@ const Hero = () => {
 
 function Home() {
   return (
-    <div className='flex items-center justify-center h-dvh bg-no-repeat bg-cover w-full'
+    <div className='flex items-center justify-center h-screen bg-no-repeat bg-cover w-full'
       style={{backgroundImage: `url(${bgImage.src})`}}
     >
-      <div className="absolute inset-0 z-0 bg-black/65 bg-bottom" aria-hidden="true" />
-      <div className="absolute top-20 left-1/2 -translate-x-1/2 flex flex-col gap-y-10 m-0 max-w-2xl w-full px-4">
+      <div className="absolute inset-0 z-0 bg-black/65 bg-bottom h-full" aria-hidden="true" />
+      <div className="absolute top-20 left-1/2 -translate-x-1/2 flex flex-col gap-y-10 m-0 max-w-2xl h-full w-full px-4">
         <Hero />
         <Searchbar />
       </div>
